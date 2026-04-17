@@ -1,5 +1,5 @@
-# JKW CRM — Sistem Manajemen Klien
-### PT Jawa Kerja Wiraswasta
+# JKW CRM — Sistem Manajemen Perusahaan
+### Jadi Kaya Wajib
 
 ---
 
@@ -40,17 +40,7 @@ define('DB_NAME', 'jkw_db');
 - **WAMP**: Taruh folder `jkw/` di `C:\wamp64\www\`
 - Buka browser: `http://localhost/jkw/`
 
----
 
-## Akun Login Default
-
-| Role     | Username   | Password  |
-|----------|------------|-----------|
-| Admin    | `admin`    | `password` |
-| Operator | `operator` | `password` |
-
-> **Admin** dapat tambah, edit, hapus klien.
-> **Operator** hanya dapat melihat data.
 
 ---
 
@@ -58,11 +48,7 @@ define('DB_NAME', 'jkw_db');
 
 - ✅ Halaman login dengan validasi
 - ✅ Session management (logout otomatis)
-- ✅ Dashboard statistik (total klien, aktif, prospek, nilai kontrak)
-- ✅ Tabel data klien dengan pagination (8 per halaman)
-- ✅ Pencarian & filter berdasarkan status
-- ✅ CRUD data klien (khusus Admin)
 - ✅ Responsive design (mobile-friendly)
 - ✅ Dark mode modern dengan glassmorphism
-- ✅ Footer PT Jawa Kerja Wiraswasta
-- ✅ 10 data klien sample
+- ✅ Footer Jadi Kaya Wajib
+
