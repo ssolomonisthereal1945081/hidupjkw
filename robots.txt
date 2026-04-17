@@ -1,0 +1,9 @@
+#SELAMATKAMUMENEMUKANFILEROBOTTXT
+User-agent: *
+Disallow: /admin/
+Disallow: /dashboard.php
+Disallow: /login.php
+Disallow:/portal_admin.php
+Disallow: /log/logptjkw.pcapng
+Allow: /index.php
+
