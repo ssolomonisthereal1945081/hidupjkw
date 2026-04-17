@@ -40,17 +40,7 @@ define('DB_NAME', 'jkw_db');
 - **WAMP**: Taruh folder `jkw/` di `C:\wamp64\www\`
 - Buka browser: `http://localhost/jkw/`
 
----
 
-## Akun Login Default
-
-| Role     | Username   | Password  |
-|----------|------------|-----------|
-| Admin    | `admin`    | `password` |
-| Operator | `operator` | `password` |
-
-> **Admin** dapat tambah, edit, hapus klien.
-> **Operator** hanya dapat melihat data.
 
 ---
 
