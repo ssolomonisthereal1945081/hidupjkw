@@ -461,7 +461,7 @@
         </div>
         <div class="footer-bottom">
             <p>&copy; <?= date('Y') ?> <strong>PT Jadi Kaya Wajib</strong>. Hak Cipta Dilindungi Undang-Undang.</p>
-            <p>JKW Features — No. Izin Usaha: 1234/MenKes/SK/IX/2018</p>
+            <p>jkw.web.id — No. Izin Usaha: 1234/MenKes/SK/IX/2018</p>
         </div>
     </div>
 </footer>
